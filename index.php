@@ -10,11 +10,56 @@
     <title>Red Sign Soapstone</title>
 </head>
 
-<body class="border-box bg-slate-900">
-    <div class="flex flex-col justify-center items-center h-screen text-center">
-    <img src="assets/img/barrier.svg" alt="Barrier icon." class="w-52">
-    <h3 class="font-mono text-xl text-white font-bold mt-6">UNDER CONSTRUCTION</h3>
-    </div>
+<body class="bg-gray-800 px-4">
 
-    </body>
+<header>
+    <a href="">
+     Red Sign Soapstone  
+    </a>
+
+</header>
+
+<main>
+    <section class="grid grid-cols-4 gap-x-2 gap-y-2"> 
+        <div class="bg-red-950 p-4 shadow-1g text-white">
+
+
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla quia natus cupiditate dolor quis aperiam inventore cum? Corrupti explicabo placeat praesentium aperiam reiciendis? Vitae ab, vero unde et tempora exercitationem!
+            </p>
+
+
+        </div>
+
+        <div class="bg-red-950 p-4 shadow-1g text-white">
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla quia natus cupiditate dolor quis aperiam inventore cum? Corrupti explicabo placeat praesentium aperiam reiciendis? Vitae ab, vero unde et tempora exercitationem!
+            </p>
+        </div>
+
+        <div class="bg-red-950 p-4  shadow-1g text-white">
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla quia natus cupiditate dolor quis aperiam inventore cum? Corrupti explicabo placeat praesentium aperiam reiciendis? Vitae ab, vero unde et tempora exercitationem!
+            </p>
+        </div>
+
+        <div class="bg-red-950 p-4  shadow-1g text-white">
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla quia natus cupiditate dolor quis aperiam inventore cum? Corrupti explicabo placeat praesentium aperiam reiciendis? Vitae ab, vero unde et tempora exercitationem!
+            </p>
+        </div>
+
+        
+        <div class="bg-red-950 p-4 shadow-1g text-white">
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla quia natus cupiditate dolor quis aperiam inventore cum? Corrupti explicabo placeat praesentium aperiam reiciendis? Vitae ab, vero unde et tempora exercitationem!
+            </p>
+        </div>
+
+
+    </section>
+</main>
+
+</body>
+
 </html>
